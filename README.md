@@ -1,22 +1,17 @@
-# Extension for The Weather Company Weather
+# Extension for The Weather Company Cleaned Observations
 
+---
 # Overview
 
-![Screenshot](./Screenshot/stream.jpg)
-![Screenshot1](./Screenshot/ui-1.jpg)
-![Screenshot2](./Screenshot/ui-2.jpg)
+Please refer to [TWC Cleaned Observations API Documentation](./TWC Cleaned Observations API Documentation.pdf)
 
-# Overview for Standard Site-Based Historical Observations
-
-
-# Notes
-
-
+---
 # Reference
-[The Weather Company](http://www.theweathercompany.com/)
+[The Weather Company](http://www.theweathercompany.com/)  
 [Historical Weather](http://goo.gl/DplOKj)
 
 ---
+
 Requirements
 ----
 - IBM SPSS Modeler v18
@@ -25,17 +20,7 @@ Requirements
 More information here: [IBM Predictive Extensions][2]
 
 ---
-Installation instructions
-----
-1. Download the extension.
-2. Install extension from [gallery][2] 
 
----
-Examples stream and data
-----
-Example folder include example stream and sample data
-
----
 License
 ----
 
@@ -46,5 +31,5 @@ Contributors
 ----
 - Yu Wenpei [(mail)](yuwenp@cn.ibm.com)
 
-[1]:http://www.apache.org/licenses/LICENSE-2.0.html
-[2]:https://developer.ibm.com/predictiveanalytics/downloads/#tab2
+[1]: http://www.apache.org/licenses/LICENSE-2.0.html
+[2]: https://developer.ibm.com/predictiveanalytics/downloads/#tab2
