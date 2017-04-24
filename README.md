@@ -21,7 +21,7 @@ Import high resolution, gridded historical weather observations for a set of loc
 
 ---
 
-#Requirements
+# Requirements
 - IBM SPSS Modeler v18
 - R Essentials for SPSS Modeler plugin 
 
@@ -29,11 +29,14 @@ More information here: [IBM Predictive Extensions][2]
 
 ---
 
-#License
+# Troube Shoot
+[TWC Extension Trouble Shoot](https://github.com/IBMPredictiveAnalytics/TWCo_Document/blob/master/twc%20extension%20trouble%20shoot.md)
+
+# License
 [Apache 2.0][1]
 
 
-#Contributors
+# Contributors
 - Yu Wenpei [(mail)](yuwenp@cn.ibm.com)
 
 [1]: http://www.apache.org/licenses/LICENSE-2.0.html
